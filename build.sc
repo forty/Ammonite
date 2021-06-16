@@ -73,7 +73,7 @@ val (buildVersion, unstable) = scala.util.Try(
   case Some(tagName) => (tagName, false)
 }
 
-val bspVersion = "2.0.0-M6"
+val bspVersion = "2.0.0-M14"
 val fastparseVersion = "2.3.0"
 val scalametaVersion = "4.4.18"
 
